@@ -10,7 +10,7 @@
 
 **Security Operations:** SIEM, SOC Monitoring, Alert Triage, Incident Response
 
-**Security Tools:** Wazuh, Splunk, FortiGate, Shuffle SOAR, TheHive, Cortex
+**Security Tools:** Wazuh, Splunk, FortiGate, Shuffle SOAR, TheHive
 
 **Digital Forensics:** FTK Imager, KAPE, Volatility 3
 
